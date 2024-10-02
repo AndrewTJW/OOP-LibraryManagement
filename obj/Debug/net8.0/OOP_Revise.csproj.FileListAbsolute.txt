@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\bin\Debug\net8.0\OOP_Revise.exe
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\bin\Debug\net8.0\OOP_Revise.deps.json
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\bin\Debug\net8.0\OOP_Revise.runtimeconfig.json
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\bin\Debug\net8.0\OOP_Revise.dll
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\bin\Debug\net8.0\OOP_Revise.pdb
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\obj\Debug\net8.0\OOP_Revise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\obj\Debug\net8.0\OOP_Revise.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\obj\Debug\net8.0\OOP_Revise.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\obj\Debug\net8.0\OOP_Revise.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\obj\Debug\net8.0\OOP_Revise.dll
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\obj\Debug\net8.0\refint\OOP_Revise.dll
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\obj\Debug\net8.0\OOP_Revise.pdb
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\obj\Debug\net8.0\OOP_Revise.genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\OOP\Study OOP Basics\OOP_Revise\obj\Debug\net8.0\ref\OOP_Revise.dll
